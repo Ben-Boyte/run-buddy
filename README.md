@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://ben-boyte.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Ben.
+Made with ❤️ by Ben
 
 ### ©️2019 Run Buddy, Inc 
